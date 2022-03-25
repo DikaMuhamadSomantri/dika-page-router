@@ -38,8 +38,6 @@
 <!-- selesai manggil kontent -->
 
     </div>
-  <router-link to="/longtime">Longtime</router-link>-
-  <router-link to="/cost-report">Cost-Report</router-link>-
 
 </template>
 
