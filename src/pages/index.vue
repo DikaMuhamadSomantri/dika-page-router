@@ -3,8 +3,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1>Coba Di klik salah satu :3</h1>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio ex fugit adipisci culpa quam veritatis quisquam exercitationem, cum maiores sed! Quam, quod. Itaque, nulla eius amet quia totam optio consequatur.</p>
+                        <h1>Coba Dimiringkan Layarnya Dikarenaka Belum Responsive :3</h1>
+                        <p>Setelah itu coba pencet tombol :3.</p>
                     </div>
                 </div>
             </div>
